@@ -3,7 +3,7 @@ Wordize Helper
 
 Translate numbers to plain text
 
-This helper translate number to plain text running each digit against a ditionary. You may change the language with startup settings or translating:
+This helper translate numbers to plain text searching each digit in a dictionary. You may change the language with startup settings or translating:
 
 - numbers in range one until nine
 - numbers in range ten until ninety
