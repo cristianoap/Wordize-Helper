@@ -84,9 +84,9 @@ Parameters
 
 You may change the following settings:
 
-- *defaults*: Holds the name of digits by order (unit, dozen, hundred). 
-- *irregular*: Set here the numbers that dont follow the name convention (like ten - this number dont follow rule *{$number}ty*). The irregular numbers may be unique or recursive. Recursive numbers may appear in any class (thousand, million, trillion, etc) and unique numbers exists by himself (like zero).
-- *sep_ud*: Allow set the word that separate units and dozens.
-- *sep_dh*: Allow set the word that separate dozens and hundreds.
-- separator*: Separate classes.
-- *classes*: The classes are separated by the multiplier 1000 (thousand, million, trillion, etc). If your language use two options to represent a class (like Portuguese - 1 milhão and  2, 3, 4.... milhões), you can set the values in a array.
+- **defaults**: Holds the name of digits by order (unit, dozen, hundred). 
+- **irregular**: Set here the numbers that dont follow the name convention (like ten - this number dont follow rule **{$number}ty**). The irregular numbers may be unique or recursive. Recursive numbers may appear in any class (thousand, million, trillion, etc) and unique numbers exists by himself (like zero).
+- **sep_ud**: Allow set the word that separate units and dozens.
+- **sep_dh**: Allow set the word that separate dozens and hundreds.
+- **separator**: Word used to separate classes.
+- **classes**: The classes are separated by the multiplier 1000 (thousand, million, trillion, etc). If your language use two options to represent a class (like Portuguese - 1 milhão and  2, 3, 4.... milhões), you can set the values in a array.
