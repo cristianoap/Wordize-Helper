@@ -5,7 +5,7 @@ Translate numbers to plain text
 
 To change the configuration
 
-`
+```
 $settings = array(
 	'defaults' => array(
 		'unit' => array(
@@ -70,4 +70,4 @@ $settings = array(
 	'sep_dh' => ' e ',
 	'separator' => ' e ',
 );
-`
+```
