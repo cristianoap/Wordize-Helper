@@ -90,3 +90,7 @@ You may change the following settings:
 - **sep_dh**: Allow set the word that separate dozens and hundreds.
 - **separator**: Word used to separate classes.
 - **classes**: The classes are separated by the multiplier 1000 (thousand, million, trillion, etc). If your language use two options to represent a class (like Portuguese - 1 milhão and  2, 3, 4.... milhões), you can set the values in a array.
+
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
